@@ -20,11 +20,11 @@ Mains socket bracket plate for 3D printing
 
 
 ![Screenshot](https://raw.github.com/dzach/DIN-rail-brackets/master/img/Arduinos_din.jpg)<br>
-3D printed brackets. Material: natural PLA
+Mounting boards
 
 
 ![Screenshot](https://raw.github.com/dzach/DIN-rail-brackets/master/img/PLA_din.jpg)<br>
-Mounting boards
+3D printed brackets. Material: natural PLA
 <hr>
 
 <div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://www.thingiverse.com/thing:60431">Based on the <b property="dct:title">generic 35mm DIN rail clip</b> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://www.thingiverse.com/thing:60431">fma</a>) / <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></div>
